@@ -72,6 +72,9 @@
 
  ## Phân chia thực hiện
  Cả nhóm cùng thự hiện nghiên cứu Flyway trong giai đoạn 1.
+ Tìm hiểu về Tornado Webservice: [Huỳnh Vân Nhật].
+ Tìm hiểu về Django: [Trần Văn Dân].
+ Tìm hiểu về Django REST Framework: [Trần Lục Long Tính].
  
  ## How do I run this project locally?
 
