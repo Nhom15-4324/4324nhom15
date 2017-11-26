@@ -66,6 +66,9 @@
 ## Tài liệu tham khảo online
 - [Migration data với Flyway sử dụng Maven](https://blog.udemy.com/xampp-tutorial/): Giới thiệu về Flyway và cách sử dụng flyway với Maven.
 - [How to integrate Flyway on Maven](https://www.youtube.com/watch?v=lx-OAJKFDBg): Cách tích hợp Maven với Flyway.
+- [Quickstart Django REST Framework ](http://www.django-rest-framework.org/tutorial/quickstart/): Hướng dẫn sử dụng REST Framework.
+- [Django Core | A Reference Guide to Core Django Concepts ](https://www.udemy.com/django-core): Hướng dẫn sử dụng Django.
+- [Learn Python 3.6 for Total Beginners](https://www.udemy.com/python-3-for-total-beginners): Hướng dẫn sử dụng Python cho beginer.
 
  ## Phân chia thực hiện
  Cả nhóm cùng thự hiện nghiên cứu Flyway trong giai đoạn 1.
