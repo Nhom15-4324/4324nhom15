@@ -1,5 +1,6 @@
+
 +![Các hệ thống phân tán](https://user-images.githubusercontent.com/26924023/32180538-d4a9693e-bdc4-11e7-89d7-a3d31299c1fe.png)
- -Bài tập nhóm Môn học Các hệ thống phân tán		 +## Bài tập nhóm Môn học Các hệ thống phân tán &nbsp;
+ +-Bài tập nhóm Môn học Các hệ thống phân tán		 +## Bài tập nhóm Môn học Các hệ thống phân tán &nbsp;
  +
  +## Các phần mềm cần thiết &nbsp;
  +- [Xampp](https://www.apachefriends.org/index.html)
