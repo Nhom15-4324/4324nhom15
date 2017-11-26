@@ -5,9 +5,13 @@
 ## Bài tập nhóm Môn học Các hệ thống phân tán &nbsp;
  
  ## Các phần mềm cần thiết &nbsp;
- - [Xampp](https://www.apachefriends.org/index.html)
- - [Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/keplersr1)
+ - [SQlite3](https://www.sqlite.org/)
+ - [Sublime Text](https://www.sublimetext.com/)
  - [Flyway and Maven Plugin](https://flywaydb.org/getstarted/download)
+ - [Python](https://www.python.org/)
+ - [Django](https://www.djangoproject.com/)
+ - [Django REST Framework]( http://www.django-rest-framework.org/)
+
  
  ## Tìm hiểu về Flyway
  
